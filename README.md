@@ -55,10 +55,6 @@ Copyright (c) 2020, [Yufenyuy Veyeh Didier](https://github.com/yveyeh).
 
 We will be very grateful if you support the project with anything you have.<br> It will help us with a few resources we need in order to keep improving the project and also to provide more useful components and plugins.
 
-<div style="display: grid; grid-template-columns: auto auto;">
-
-<p style="text-align: center;">
-
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X42PBTBVWZSUJ)
 
 [![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/05tyxSJ)
@@ -66,10 +62,4 @@ We will be very grateful if you support the project with anything you have.<br> 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X42PBTBVWZSUJ">
   <img src="https://raw.githubusercontent.com/yveyeh/vue-version/master/assets/paypal-donate-button.png" alt="Donate With PayPal" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" /></a>
 
-</p>
-<p style="text-align: center;">
-
-<a href="https://www.buymeacoffee.com/05tyxSJ" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-</p>
-</div>
+<!-- <a href="https://www.buymeacoffee.com/05tyxSJ" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> -->
