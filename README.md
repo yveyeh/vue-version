@@ -55,12 +55,12 @@ Copyright (c) 2020, [Yufenyuy Veyeh Didier](https://github.com/yveyeh).
 
 We will be very grateful if you support the project with anything you have.<br> It will help us with a few resources we need in order to keep improving the project and also to provide more useful components and plugins.
 
-<div>
+<p>
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
     <input type="hidden" name="cmd" value="_s-xclick" />
     <input type="hidden" name="hosted_button_id" value="X42PBTBVWZSUJ" />
     <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
     <img alt="" border="0" src="https://www.paypal.com/en_CM/i/scr/pixel.gif" width="1" height="1" />
   </form>
-</div>
+</p>
 
