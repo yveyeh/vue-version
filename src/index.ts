@@ -69,3 +69,8 @@ export default class VueVersion {
 // write unit tests
 // make the code more type secure
 // get version number shouldn't return undefined
+// update link to thank you page in assets on the paypal donate button
+// update the code of conduct file
+// update the contributing file
+// improve the usage section of the readme file
+// Add a new feature and dependency (Vuex) and implement version checking for it too

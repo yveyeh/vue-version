@@ -1,8 +1,11 @@
 node_modules/
 jest.config.js
 tsconfig.json
+.npmignore
 .gitignore
 .vscode
 assets/
 src/
 dist/index.js
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md

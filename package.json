@@ -16,11 +16,13 @@
   },
   "keywords": [
     "vue",
-    "version",
     "vue",
     "version",
+    "versions",
     "vue.version",
-    "vue-version"
+    "vue-version",
+    "vue.versions",
+    "vue-versions"
   ],
   "author": {
     "name": "Yufenyuy Veyeh Didier",

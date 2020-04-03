@@ -37,7 +37,29 @@
 - **Usage**
 
     ```ts
+    import { Vue, Component, Prop } from 'vue-property-decorator';
+    import VueVersion from 'vue-versions';
 
+    @Component({
+        delimiters: ['[[', ']]'],
+        template: require('[PATH_TO_TEMPLATE]'),
+        components: { }
+    })
+
+    export default class [CLASS_NAME] extends Vue {
+
+        public vs: VueVersion = new VueVersion();
+
+        mounted() {
+            console.log(this.vs.getVersionNumber(Vue));
+            console.log(this.vs.getVersionNumber(Vue, 'major'));
+            console.log(this.vs.getVersionNumber(Vue, 'minor'));
+            console.log(this.vs.getVersionNumber(Vue, 'patch'));
+            console.log(this.v.getVersionNumber(Vue, 'test'));
+            console.log(this.vs.getVersionNumber(Vue, undefined));
+        }
+
+    }
     ```
 
 ## Contributors
