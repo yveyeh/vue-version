@@ -55,7 +55,11 @@ Copyright (c) 2020, [Yufenyuy Veyeh Didier](https://github.com/yveyeh).
 
 We will be very grateful if you support the project with anything you have.<br> It will help us with a few resources we need in order to keep improving the project and also to provide more useful components and plugins.
 
+<div align="center">
 [![paypal](https://raw.githubusercontent.com/yveyeh/vue-version/master/assets/paypal-donate-button.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X42PBTBVWZSUJ)
+</div>
+
+<br><br>
 
 [![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/05tyxSJ)
 
