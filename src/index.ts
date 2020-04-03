@@ -61,6 +61,7 @@ export default class VueVersion {
 }
 
 
+// design vue-versions logo usign vue logo
 // improve console warning
 // add doc link to console log
 // factorise getVersionNumber
