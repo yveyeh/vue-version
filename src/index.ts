@@ -1,6 +1,14 @@
 export default class VueVersion {
 
     /**
+     * The class constructor.
+     * @return VueVersion
+     */
+    public constructor(){
+        return this;
+    }
+
+    /**
      * Returns the full version number or a specified stage release number
      * of the installed Vue.
      * @param _vue The Vue interface or VueConstructor.
@@ -30,7 +38,7 @@ export default class VueVersion {
                 }
             } 
             else {
-                console.log('[vue-version warn]: @param stage should only be any of the following: ["major", "minor", "patch"].')
+                console.error('[vue-version warn]: @param stage should only be any of the following: ["major", "minor", "patch"].')
             }
         } 
         else {

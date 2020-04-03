@@ -1,12 +1,16 @@
 {
     "compilerOptions": {
 
-        "target": "es5",
-        "module": "es2015",
+        "target": "ES6",
+        "module": "CommonJS",
         "lib": ["es5", "es2015", "es2017", "dom", "scripthost"],
 
+        "outDir": "./dist",
+        "rootDir": "./src",
+
         "noEmitOnError": true,
-        "declaration": false,
+        "declaration": true,
+        "declarationDir": "./types",
         "removeComments": true,
 
         "strict": true,

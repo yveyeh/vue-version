@@ -5,7 +5,8 @@
   "main": "dist/index.ts",
   "homepage": "https://github.com/yveyeh/vue-version#readme",
   "scripts": {
-    "build": "tsc ./src/index.ts",
+    "build": "tsc && npm run minify && rm ./dist/index.js",
+    "minify": "terser --compress --mangle --output ./dist/index.min.js -- ./dist/index.js",
     "test": "jest --config ./jest.config.js"
   },
   "publishConfig": {
@@ -51,13 +52,13 @@
     "url": "https://github.com/yveyeh/vue-version/issues"
   },
   "license": "MIT",
-  "dependencies": {
-    "vue": "^2.6.11",
-    "typescript": "^3.8.3"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^13.9.8",
-    "jest": "^25.2.4"
+    "jest": "^25.2.4",
+    "terser": "^4.6.10",
+    "typescript": "^3.8.3",
+    "vue": "^2.6.11"
   },
   "engines": {
     "node": "^8.10.0"

@@ -3,4 +3,6 @@ jest.config.js
 tsconfig.json
 .gitignore
 .vscode
+assets/
 src/
+dist/index.js
