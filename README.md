@@ -64,8 +64,11 @@
 
 ## Contributors
 
-- :headphones: [Yufenyuy Veyeh Didier](https://github.com/yveyeh).
-- :headphones: [Ndi Britha Lea](https://github.com/NdiBrithaLea).
+- :headphones: :woman: [Ndi Britha Lea](https://github.com/NdiBrithaLea). :art: :loudspeaker:
+- :headphones: :man: [Yufenyuy Veyeh Didier](https://github.com/yveyeh). :computer: :books: :pencil:
+
+<br>
+:loudspeaker:: Awareness, :pencil:: Blogposts, :computer:: Code, :art:: Design, :books:: Documentation. 
 
 ## License
 
