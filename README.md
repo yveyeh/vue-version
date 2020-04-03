@@ -55,7 +55,7 @@
             console.log(this.vs.getVersionNumber(Vue, 'major'));
             console.log(this.vs.getVersionNumber(Vue, 'minor'));
             console.log(this.vs.getVersionNumber(Vue, 'patch'));
-            console.log(this.v.getVersionNumber(Vue, 'test'));
+            this.v.getVersionNumber(Vue, 'test'); // should throw an error in the console.
             console.log(this.vs.getVersionNumber(Vue, undefined));
         }
 
