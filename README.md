@@ -60,7 +60,7 @@ We will be very grateful if you support the project with anything you have.<br> 
 [![paypal](https://raw.githubusercontent.com/yveyeh/vue-version/master/assets/paypal-donate-button.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X42PBTBVWZSUJ)
 
 
-<br>Or<br>
+Or<br>
 
 
 [![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/05tyxSJ)
