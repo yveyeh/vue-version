@@ -16,9 +16,9 @@
 
 ## Dependencies
 
-- **dependencies**: [vue](#), [typescript](#)
+- **dependencies (0)**: None.
 
-- **devDependencies**: [@types/node](#), [jest](#)
+- **devDependencies (5)**: [@types/node](#), [jest](#), [terser](#), [typescript](#), [vue](#).
 
 ## Installation and Usage
 
