@@ -1,16 +1,16 @@
 <p align="center">
   <a href="#">
-    <img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo">
+    <img width="100" src="https://raw.githubusercontent.com/yveyeh/vue-versions/master/assets/vue-versions-logo.png" alt="Vue-Versions logo">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/yveyeh/vue-versions/blob/master/LICENSE">
-    <img src="https://img.shields.io/npm/l/vuepress.svg" alt="License">
+    <img src="https://raw.githubusercontent.com/yveyeh/vue-versions/master/assets/license.svg" alt="License">
   </a>
 </p>
 
-<h1 align="center">vue-versions</h1>
+<h1 align="center">Vue-Versions</h1>
 
 **vue-versions** is a module to provide the installed Vue full version as in (x.x.x) and the individual major,minor, and patch as well. It is useful for community plugins and components with different implementations for different versions of Vue.js.
 
@@ -78,7 +78,7 @@ We will be very grateful if you support the project with anything you have, and 
 
 <div align="center">
 
-[![paypal](https://raw.githubusercontent.com/yveyeh/vue-version/master/assets/paypal-donate-button.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X42PBTBVWZSUJ)
+[![paypal](https://raw.githubusercontent.com/yveyeh/vue-versions/master/assets/paypal-donate-button.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X42PBTBVWZSUJ)
 
 Or<br><br>
 
