@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/vue-version">
+  <a href="https://www.npmjs.com/package/vue-versions">
     <img src="https://img.shields.io/npm/l/vuepress.svg" alt="License">
   </a>
 </p>
 
-<h1 align="center">vue-version</h1>
+<h1 align="center">vue-versions</h1>
 
-**vue-version** is a module to provide the installed Vue full version as in (x.x.x) and the individual major,minor, and patch as well. It is useful for community plugins and components with different implementations for different versions of Vue.js.
+**vue-versions** is a module to provide the installed Vue full version as in (x.x.x) and the individual major,minor, and patch as well. It is useful for community plugins and components with different implementations for different versions of Vue.js.
 
 ## Dependencies
 
@@ -26,12 +26,12 @@
 
     - With NPM:
     ```bash
-    $ npm i vue-version
+    $ npm i vue-versions
     ```
 
     - With Yarn:
     ```bash
-    $ yarn add vue-version
+    $ yarn add vue-versions
     ```
 
 - **Usage**
@@ -51,7 +51,7 @@ The MIT License ([MIT](https://github.com/yveyeh/vue-version/blob/master/LICENSE
 
 Copyright (c) 2020, [Yufenyuy Veyeh Didier](https://github.com/yveyeh).
 
-## Support vue-version :gift:
+## Support vue-versions :gift:
 
 We will be very grateful if you support the project with anything you have.<br> It will help us with a few resources we need in order to keep improving the project and also to provide more useful components and plugins.
 
