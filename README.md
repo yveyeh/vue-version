@@ -74,7 +74,7 @@
 
 ## Support vue-versions :gift: :credit_card:
 
-We will be very grateful if you support the project with anything you have.<br> It will help us with a few resources we need in order to keep improving the project and also to provide more useful components and plugins. We will also display your logo and organization name in the **Financial Contributors** section below. 
+We will be very grateful if you support the project with anything you have, and can.<br> It will help us with a few resources we need in order to keep improving the project and also to provide more useful components and plugins. We will also display your logo and organization name in the **Financial Contributors** section below. 
 
 <div align="center">
 
@@ -86,7 +86,7 @@ Or<br><br>
 
 </div>
 
-**Financial Contributors:**
+- **Financial Contributors:**
 
 
 <!-- <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X42PBTBVWZSUJ">
