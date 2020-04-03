@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/vue-versions">
+  <a href="https://github.com/yveyeh/vue-versions/blob/master/LICENSE">
     <img src="https://img.shields.io/npm/l/vuepress.svg" alt="License">
   </a>
 </p>
@@ -62,6 +62,7 @@
     }
     ```
 
+
 ## Contributors
 
 - :headphones: :woman: [Ndi Britha Lea](https://github.com/NdiBrithaLea). :art: :loudspeaker:
@@ -70,28 +71,32 @@
 <br>
 :loudspeaker:: Awareness, :pencil:: Blogposts, :computer:: Code, :art:: Design, :books:: Documentation. 
 
-## License
 
-The MIT License ([MIT](https://github.com/yveyeh/vue-version/blob/master/LICENSE)).
+## Support vue-versions :gift: :credit_card:
 
-Copyright (c) 2020, [Yufenyuy Veyeh Didier](https://github.com/yveyeh).
-
-## Support vue-versions :gift:
-
-We will be very grateful if you support the project with anything you have.<br> It will help us with a few resources we need in order to keep improving the project and also to provide more useful components and plugins.
+We will be very grateful if you support the project with anything you have.<br> It will help us with a few resources we need in order to keep improving the project and also to provide more useful components and plugins. We will also display your logo and organization name in the **Financial Contributors** section below. 
 
 <div align="center">
 
 [![paypal](https://raw.githubusercontent.com/yveyeh/vue-version/master/assets/paypal-donate-button.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X42PBTBVWZSUJ)
 
-
-Or<br>
-
+Or<br><br>
 
 [![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/05tyxSJ)
 
 </div>
+
+**Financial Contributors:**
+
+
 <!-- <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X42PBTBVWZSUJ">
   <img src="https://raw.githubusercontent.com/yveyeh/vue-version/master/assets/paypal-donate-button.png" alt="Donate With PayPal" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" /></a> -->
 
 <!-- <a href="https://www.buymeacoffee.com/05tyxSJ" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> -->
+
+
+## License
+
+The MIT License ([MIT](https://github.com/yveyeh/vue-versions/blob/master/LICENSE)).
+
+Copyright (c) 2020, [Yufenyuy Veyeh Didier](https://github.com/yveyeh).
