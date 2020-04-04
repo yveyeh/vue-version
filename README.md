@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img width="100" src="https://raw.githubusercontent.com/yveyeh/vue-versions/master/assets/vue-versions-logo.png" alt="Vue-Versions logo">
+    <img width="150" src="https://raw.githubusercontent.com/yveyeh/vue-versions/master/assets/vue-versions-logo.png" alt="Vue-Versions logo">
   </a>
 </p>
 
@@ -11,9 +11,7 @@
   </a> -->
 
   [![stable](https://raw.githubusercontent.com/yveyeh/vue-versions/master/assets/stability-badge.png)](#)
-
   [![npm](https://raw.githubusercontent.com/yveyeh/vue-versions/master/assets/npm-version-badge.png)](#)
-
   [![license](https://raw.githubusercontent.com/yveyeh/vue-versions/master/assets/license-badge.png)](#)
 
 </p>
