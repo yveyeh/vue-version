@@ -6,17 +6,21 @@
 
 <p align="center">
 
-  <a href="https://github.com/yveyeh/vue-versions/blob/master/LICENSE">
-    <img src="https://raw.githubusercontent.com/yveyeh/vue-versions/master/assets/license.svg" alt="License">
-  </a>
+  <!-- <a href="https://github.com/yveyeh/vue-versions/blob/master/LICENSE">
+    <img src="https://raw.githubusercontent.com/yveyeh/vue-versions/master/assets/license-badge.png" alt="License">
+  </a> -->
 
-  [![unstable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
+  [![stable](https://raw.githubusercontent.com/yveyeh/vue-versions/master/assets/stability-badge.png)](#)
+
+  [![npm](https://raw.githubusercontent.com/yveyeh/vue-versions/master/assets/npm-version-badge.png)](#)
+
+  [![license](https://raw.githubusercontent.com/yveyeh/vue-versions/master/assets/license-badge.png)](#)
 
 </p>
 
 <h1 align="center">Vue-Versions</h1>
 
-**vue-versions** is a module to provide the installed Vue full version as in (x.x.x) and the individual major,minor, and patch as well. It is useful for community plugins and components with different implementations for different versions of Vue.js.
+**vue-versions** is a module to provide the installed Vue full version as in (x.y.z) and the individual major (x), minor(y), and patch(z) as well. It is useful for community plugins and components with different implementations for different versions of Vue.js.
 
 ## Dependencies
 
