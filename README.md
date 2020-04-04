@@ -5,9 +5,13 @@
 </p>
 
 <p align="center">
+
   <a href="https://github.com/yveyeh/vue-versions/blob/master/LICENSE">
     <img src="https://raw.githubusercontent.com/yveyeh/vue-versions/master/assets/license.svg" alt="License">
   </a>
+
+  [![unstable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
+
 </p>
 
 <h1 align="center">Vue-Versions</h1>
