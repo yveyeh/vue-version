@@ -22,7 +22,7 @@
 
 - **dependencies (0)**: None.
 
-- **devDependencies (5)**: [@types/node](#), [jest](#), [terser](#), [typescript](#), [vue](#).
+- **devDependencies (5)**: [@types/node](https://www.npmjs.com/package/@types/node), [jest](https://www.npmjs.com/package/jest), [terser](https://www.npmjs.com/package/terser), [typescript](https://www.npmjs.com/package/typescript), [vue](https://www.npmjs.com/package/vue).
 
 ## Installation and Usage
 
@@ -41,26 +41,21 @@
 - **Usage**
 
     ```ts
-    import { Vue, Component, Prop } from 'vue-property-decorator';
-    import VueVersion from 'vue-versions';
+    import { Vue, Component } from 'vue-property-decorator';
+    import VueVersions from 'vue-versions';
 
-    @Component({
-        delimiters: ['[[', ']]'],
-        template: require('[PATH_TO_TEMPLATE]'),
-        components: { }
-    })
+    @Component({ template: require('[PATH_TO_TEMPLATE]') })
 
     export default class [CLASS_NAME] extends Vue {
 
-        public vs: VueVersion = new VueVersion();
+        public vs: VueVersions = new VueVersions();
 
         mounted() {
             console.log(this.vs.getVersionNumber(Vue));
             console.log(this.vs.getVersionNumber(Vue, 'major'));
             console.log(this.vs.getVersionNumber(Vue, 'minor'));
             console.log(this.vs.getVersionNumber(Vue, 'patch'));
-            this.v.getVersionNumber(Vue, 'test'); // should throw an error in the console.
-            console.log(this.vs.getVersionNumber(Vue, undefined));
+            this.vs.getVersionNumber(Vue, 'test'); // should throw an error in the console.
         }
 
     }
