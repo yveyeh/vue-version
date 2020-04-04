@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center">
+<div align="center">
 
   <!-- <a href="https://github.com/yveyeh/vue-versions/blob/master/LICENSE">
     <img src="https://raw.githubusercontent.com/yveyeh/vue-versions/master/assets/license-badge.png" alt="License">
@@ -14,7 +14,7 @@
   [![npm](https://raw.githubusercontent.com/yveyeh/vue-versions/master/assets/npm-version-badge.png)](#)
   [![license](https://raw.githubusercontent.com/yveyeh/vue-versions/master/assets/license-badge.png)](#)
 
-</p>
+</div>
 
 <h1 align="center">Vue-Versions</h1>
 
