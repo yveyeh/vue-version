@@ -1,9 +1,9 @@
 node_modules/
-jest.config.js
 tsconfig.json
 .npmignore
 .gitignore
 .vscode
+__tests__/
 assets/
 src/
 dist/index.js

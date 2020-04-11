@@ -2,7 +2,7 @@
   * Provides the installed Vue full version as in (x.y.z) and the individual major (x), minor (y), and patch (z).
   * @author Yufenyuy Veyeh Didier - https://github.com/yveyeh
   * @contributor Ndi Britha Lea - https://github.com/NdiBrithaLea
-  * @copyright &copy; 2020 - Tenshnova. https://github.com/yveyeh/vue-versions
+  * @copyright &copy; 2020 - Yufenyuy Veyeh Didier. https://github.com/yveyeh/vue-versions
   * @license MIT
   * @return VueVersion
   */
