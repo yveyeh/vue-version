@@ -9,7 +9,7 @@ let v = new VueVersions()
 
 let vers = v.getVersionNumber(Vue)
 
-test('should add two numbers', () => {
+it('should return full Vue version.', () => {
     assert.equal(vers, '2.6.11')
 })
 
