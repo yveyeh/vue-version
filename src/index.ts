@@ -50,8 +50,11 @@ export default class VueVersion {
 
     }
 
-
-    private warn() {
+    /**
+     * Outputs an error warning in the console `[vue-versions warn]`.
+     * @return An empty string.
+     */
+    private warn(): string {
         let doc_link: string = 'https://github.com/yveyeh/vue-versions/blob/master/README.md';
         console.error('[vue-versions warn]: ' +
             '(parameter) _stage should only be any of the following: ["major", "minor", "patch"].\n  ' +

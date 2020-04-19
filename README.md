@@ -28,9 +28,9 @@
 
 ## Dependencies
 
-- **dependencies (0)**: None.
+- **dependencies (1)**: [vue](https://www.npmjs.com/package/vue).
 
-- **devDependencies (5)**: [@types/node](https://www.npmjs.com/package/@types/node), [terser](https://www.npmjs.com/package/terser), [typescript](https://www.npmjs.com/package/typescript), [vue](https://www.npmjs.com/package/vue).
+- **devDependencies (5)**: [@types/node](https://www.npmjs.com/package/@types/node), [terser](https://www.npmjs.com/package/terser), [typescript](https://www.npmjs.com/package/typescript).
 
 ## Installation and Usage
 
