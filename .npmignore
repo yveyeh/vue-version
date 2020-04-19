@@ -7,5 +7,8 @@ __tests__/
 assets/
 src/
 dist/index.js
+dist/index.js.map
+types/index.d.ts.map
 CODE_OF_CONDUCT.md
 CONTRIBUTING.md
+README.md

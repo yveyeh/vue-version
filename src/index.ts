@@ -41,13 +41,7 @@ export default class VueVersion {
                 }
             } 
             else {
-                let doc_link: string = 'https://github.com/yveyeh/vue-versions/blob/master/README.md';
-                console.error(
-                    '[vue-versions warn]: ' + 
-                    '(parameter) _stage should only be any of the following: ["major", "minor", "patch"].\n  ' +
-                    'You can see an example at ' + doc_link + '.'
-                );
-                return '';
+                return this.warn();
             }
         } 
         else {
@@ -56,6 +50,14 @@ export default class VueVersion {
 
     }
 
+
+    private warn() {
+        let doc_link: string = 'https://github.com/yveyeh/vue-versions/blob/master/README.md';
+        console.error('[vue-versions warn]: ' +
+            '(parameter) _stage should only be any of the following: ["major", "minor", "patch"].\n  ' +
+            'You can see an example at ' + doc_link + '.');
+        return '';
+    }
 
     /**
      * Returns the lowercase string value of the stage.

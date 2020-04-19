@@ -9,6 +9,13 @@ function test(name, fn) {
 	tests.push({ name, fn })
 }
 
+// The (alias) test function **`it`** accepts a name and a function
+function it(name, fn) {
+	// it pushes the name and function as an object to
+	// the `tests` array
+	tests.push({ name, fn })
+}
+
 function run() {
 	// `run` runs all the tests in the `tests` array
 	tests.forEach(t => {
@@ -33,8 +40,9 @@ function run() {
 // arguments
 const files = process.argv.slice(2)
 
-// expose the test function as a global variable
+// expose the test and it function as a global variable
 global.test = test
+global.it = it
 
 // Load each file using `require`
 files.forEach(file => {

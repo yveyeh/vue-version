@@ -7,10 +7,12 @@
 
         "outDir": "./dist",
         "rootDir": "./src",
+        "sourceMap": true,
 
         "noEmitOnError": true,
         "declaration": true,
         "declarationDir": "./types",
+        "declarationMap": true,
         "removeComments": true,
 
         "strict": true,
